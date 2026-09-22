@@ -4,10 +4,30 @@ Software Engineering student at 1337 Coding School
 (42 Network / UM6P), interested in systems programming,
 algorithms, optimization and AI.
 
-## Currently working on
-- LLM function calling & constrained generation
-- Retrieval-Augmented Generation (RAG)
-- Systems and algorithmic projects
+## Featured Projects
+
+### Fly-in
+Multi-agent pathfinding and scheduling system with graph-based
+routing, reservations and collision avoidance.
+
+### Codexion
+Concurrent scheduling simulator in C implementing FIFO/EDF
+with POSIX threads and mutex synchronization.
+
+### Call Me Maybe
+LLM function-calling engine using constrained decoding
+and structured generation.
+
+### RAG System
+Retrieval-Augmented Generation pipeline for grounded
+document-based question answering.
+
+## Current Focus
+
+- Retrieval-Augmented Generation
+- LLM function calling
+- Constrained generation
+- Systems & algorithms
 
 ## Technical Skills
 - Languages: C, Python, JavaScript
