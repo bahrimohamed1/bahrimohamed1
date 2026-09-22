@@ -17,5 +17,4 @@ algorithms, optimization and AI.
 - Tools: Git, GitHub
 
 ## Contact
-- LinkedIn: ...
 - Email: bahrisimox3@gmail.com
